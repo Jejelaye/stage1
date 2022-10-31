@@ -10,7 +10,7 @@ app.get("/", (req, res) => {
     "slackUsername": "Kehinde Jejelaye",
     "backend": true,
     "age": 26,
-    "bio": "I'm willing to put in the work."
+    "bio": "I am a backend developer currently living in Lagos, Nigeria. I am interested in Web development, mobile development, data structures and algorithms. I strongly desire to be challenged and to test my limits - and that is why I'm here."
   }
   res.json(obj)
 })
